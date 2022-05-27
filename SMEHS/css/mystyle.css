@@ -1,0 +1,138 @@
+﻿body {
+    background: #fff;
+    color: #666666;
+    font-family: "Open Sans", sans-serif;
+}
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#top-bar.animated-header {
+    padding: 0 0;
+    background: #fff;
+    box-shadow: none;
+}
+.navbar-header .navbar-brand {
+    padding: 5px 0;
+}
+.navbar-brand {
+    float: left;
+    height: 50px;
+   
+    font-size: 18px;
+    line-height: 20px;
+}
+.navbar-header .navbar-brand a {
+    height: auto;
+    display: inline-block;
+    margin-top: 8px;
+}
+a {
+    font-family: 'Rajdhani';
+}
+.row {
+    /*padding-top: 24px;*/
+    padding-left: -15px;
+    padding-right: -15px;
+}
+
+.navbar-fixed-top .navbar-collapse {
+    max-height: 340px;
+}
+.main-menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#top-bar .main-menu li {
+    position: relative;
+    /* padding: 5px 10px; */
+}
+.main-menu li {
+    float: left;
+}
+#top-bar .main-menu li a {
+    color: white !important;
+    font-size: 16px;
+    font-weight: 500;
+    border-bottom: 2px solid transparent;
+    transition: .3s all;
+    padding-right: 15px !important;
+    padding-left: 30px;
+    padding-bottom: 15px;
+    padding-top: 0px;
+    font-display: block;
+    font-family: 'Aldrich' !important;
+}
+
+.carousel {
+    position: relative;
+}
+.carousel-inner img {
+    width: 100%;
+ 
+}
+h1 {
+    font-family: 'Aldrich' !important;
+}
+.zoom {
+    background-color: green;
+    transition: transform .2s;
+    margin: 0 auto;
+}
+a {
+    font-family: 'Aldrich' !important;
+    color: #337ab7;
+    text-decoration: none;
+}
+.optionsboxdown {
+    background-color: #ffffff;
+    color: black;
+    text-align: center;
+    padding: 7px;
+    font-size: 14px;
+    height: 160px;
+    margin-left: 1%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 1%;
+    padding-top: 11%;
+}
+button {
+    font-family: 'Aldrich' !important;
+}
+b, strong {
+    font-weight: 700;
+}
+table {
+    font-family: 'Rajdhani';
+    border-collapse: collapse;
+    width: 100%;
+}
+table {
+    background-color: transparent;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+p {
+    font-family: "Arial Narrow", sans-serif;
+    line-height: 22px;
+    font-size: 16px;
+    font-weight: 300;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+a:hover {
+    text-decoration: none;
+}
+img {
+    vertical-align: middle;
+}
